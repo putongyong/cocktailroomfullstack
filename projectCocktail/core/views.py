@@ -1,7 +1,8 @@
 from django.shortcuts import render
 
 # View for API
-from rest_framework import generics
+from rest_framework import generics, status
+from rest_framework.response import Response
 from .models import Category, Subcategory, Product
 from .serializers import CategorySerializer, SubcategorySerializer, ProductSerializer
 
@@ -31,6 +32,11 @@ class ProductList(generics.ListCreateAPIView):
 class ProductDetail(generics.RetrieveUpdateDestroyAPIView):
     queryset = Product.objects.all()
     serializer_class = ProductSerializer
+
+    def delete(self, request, *args, **kwargs):
+        instance = self.get_object()
+        instance.delete()
+        return Response(status=status.HTTP_204_NO_CONTENT)
 
 # View for frontend
 def front(request):
