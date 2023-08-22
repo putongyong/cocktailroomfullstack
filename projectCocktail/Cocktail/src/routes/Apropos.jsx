@@ -17,7 +17,7 @@ export default function Apropos() {
 				<div class="row">
 					<article class="col-lg-6">
 						<figure class="tm-person">
-							<img src="img/about-01.jpg" alt="Image" class="img-fluid tm-person-img" />
+							<img src="/product_images/about-01.jpg" alt="Image" class="img-fluid tm-person-img" />
 							<figcaption class="tm-person-description">
 								<h4 class="tm-person-name">Jennifer Soft</h4>
 								<p class="tm-person-title">Founder and CEO</p>
@@ -34,7 +34,7 @@ export default function Apropos() {
 					</article>
 					<article class="col-lg-6">
 						<figure class="tm-person">
-							<img src="img/about-02.jpg" alt="Image" class="img-fluid tm-person-img" />
+							<img src="/product_images/about-02.jpg" alt="Image" class="img-fluid tm-person-img" />
 							<figcaption class="tm-person-description">
 								<h4 class="tm-person-name">Daisy Walker</h4>
 								<p class="tm-person-title">Executive Chef</p>
@@ -49,7 +49,7 @@ export default function Apropos() {
 					</article>
 					<article class="col-lg-6">
 						<figure class="tm-person">
-							<img src="img/about-03.jpg" alt="Image" class="img-fluid tm-person-img" />
+							<img src="/product_images/about-03.jpg" alt="Image" class="img-fluid tm-person-img" />
 							<figcaption class="tm-person-description">
 								<h4 class="tm-person-name">Florence Nelson</h4>
 								<p class="tm-person-title">Kitchen Manager</p>
@@ -64,7 +64,7 @@ export default function Apropos() {
 					</article>
 					<article class="col-lg-6">
 						<figure class="tm-person">
-							<img src="img/about-04.jpg" alt="Image" class="img-fluid tm-person-img" />
+							<img src="/product_images/about-04.jpg" alt="Image" class="img-fluid tm-person-img" />
 							<figcaption class="tm-person-description">
 								<h4 class="tm-person-name">Valentina Martin</h4>
 								<p class="tm-person-title">Culinary Director</p>
@@ -84,8 +84,7 @@ export default function Apropos() {
 			<div class="tm-container-inner tm-featured-image">
 				<div class="row">
 					<div class="col-12">
-						<div class="placeholder-2">
-							<div class="parallax-window-2" data-parallax="scroll" data-image-src="img/about-05.jpg"></div>		
+						<div class="placeholder-2">		
 						</div>
 					</div>
 				</div>
@@ -119,7 +118,7 @@ export default function Apropos() {
 				<div class="row">
 					<div class="col-12">
 						<div class="tm-history-inner">
-							<img src="img/about-06.jpg" alt="Image" class="img-fluid tm-history-img" />
+							<img src="/product_images/about-06.jpg" alt="Image" class="img-fluid tm-history-img" />
 							<div class="tm-history-text"> 
 								<h4 class="tm-history-title">History of our restaurant</h4>
 								<p class="tm-mb-p">Sed ligula risus, interdum aliquet imperdiet sit amet, auctor sit amet justo. Maecenas posuere lorem id augue interdum vehicula. Praesent sed leo eget libero ultricies congue.</p>
