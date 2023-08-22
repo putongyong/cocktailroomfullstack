@@ -1,6 +1,6 @@
-import Noodles from "./noodles"
-import Pizza from "./pizza"
-import Salad from "./salad"
+import Dessertdujour from "./Produitdujour/noodles";
+import Cocktaildujour from "./Produitdujour/pizza";
+import Aperitifdujour from "./Produitdujour/salad";
 import { useState } from "react"
 
 
@@ -14,11 +14,11 @@ export default function ProductList(){
     const renderContent = () => {
         switch (activeTab) {
             case 'pizza':
-                return <Pizza />;
+                return <Cocktaildujour />;
             case 'salad':
-                return <Salad />;
+                return <Aperitifdujour />;
             case 'noodles':
-                return <Noodles />;
+                return <Dessertdujour />;
             default:
                 return null;
         }

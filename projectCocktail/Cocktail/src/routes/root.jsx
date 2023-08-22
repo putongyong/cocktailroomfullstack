@@ -3,7 +3,6 @@ import Navbar from "./components/navbar";
 import ProductList from "./components/productlist";
 import Intro from "./components/intro";
 import Info from "./components/info";
-import Testing from "./components/Testing";
 
 export default function Root() {
     return (
@@ -16,7 +15,6 @@ export default function Root() {
 				<p class="col-12 text-center">Total 3 HTML pages are included in this template. Header image has a parallax effect. You can feel free to download, edit and use this TemplateMo layout for your commercial or non-commercial websites.</p>
 			</header>
 			<Intro />
-			<Testing/>
 			<ProductList/>
 			<Info/>
 		</main>

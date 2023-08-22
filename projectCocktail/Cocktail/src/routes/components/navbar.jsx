@@ -8,7 +8,7 @@ export default function Navbar() {
                     <div class="tm-header">
                         <div class="row tm-header-inner">
                             <div class="col-md-6 col-12">
-                                <img src="/img/simple-house-logo.png" alt="Logo" class="tm-site-logo" /> 
+                                <img src="/product_images/simple-house-logo.png" alt="Logo" class="tm-site-logo" /> 
                                 <div class="tm-site-text-box">
                                     <h1 class="tm-site-title">Cocktail Room</h1>
                                     <h6 class="tm-site-description">a bar where we meet</h6>	
