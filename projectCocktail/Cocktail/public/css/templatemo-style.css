@@ -337,8 +337,8 @@ p, address {
 
 .tm-nav-dropdown {
   position:absolute;
-  top: calc(100% + 5px);
-  left: calc(100% + 5px);
+  top: calc(100%+5px);
+  left: calc(100%+5px);
   background-color: #ffffff;
   display: none;
   padding: 10px;
