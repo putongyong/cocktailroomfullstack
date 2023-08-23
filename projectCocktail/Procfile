@@ -1,0 +1,1 @@
+web: gunicorn projectCocktail.wsgi –log-file -
