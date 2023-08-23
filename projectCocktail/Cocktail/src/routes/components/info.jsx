@@ -12,8 +12,8 @@ export default function Info(){
 					</div>
 					<div class="col-md-6">
 						<div class="tm-description-box"> 
-							<h4 class="tm-gallery-title">Maecenas nulla neque</h4>
-							<p class="tm-mb-45">Redistributing this template as a downloadable ZIP file on any template collection site is strictly prohibited. You will need to <a rel="nofollow" href="https://templatemo.com/contact">talk to us</a> for additional permissions about our templates. Thank you.</p>
+							<h4 class="tm-gallery-title"> Vers une expérience cocktail immersive...</h4>
+							<p class="tm-mb-45">Bienvenue au Cocktail Room, votre passerelle vers une expérience cocktail immersive. Plongez dans notre monde où la mixologie est une passion et chaque gorgée raconte une histoire. Explorez nos recettes exquises, soigneusement élaborées pour éveiller vos sens.</p>
 							<NavLink to="/apropos" class="tm-btn tm-btn-default tm-right">Read More</NavLink>
 						</div>
 					</div>

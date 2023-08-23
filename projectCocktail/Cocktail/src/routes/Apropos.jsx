@@ -8,9 +8,8 @@ export default function Apropos() {
 		<Navbar/>
 		<main>
 			<header class="row tm-welcome-section">
-				<h2 class="col-12 text-center tm-section-title">About Simple House</h2>
-				<p class="col-12 text-center">This is about page of simple house template. 
-                You can modify and use this HTML template for your website. Total 3 HTML pages included in this template. Header image has a parallax effect.</p>
+				<h2 class="col-12 text-center tm-section-title">À propos du Cocktail Room</h2>
+				<p class="col-12 text-center"> Que vous soyez un amateur curieux ou un connaisseur aguerri, notre site recrée l'atmosphère chaleureuse d'un bar animé, prêt à accueillir des rencontres inoubliables. Rejoignez-nous dans cette aventure gustative, où les frontières entre le réel et le virtuel s'estompent pour créer des moments conviviaux et raffinés.</p>
 			</header>
 
 			<div class="tm-container-inner tm-persons">
@@ -120,9 +119,8 @@ export default function Apropos() {
 						<div class="tm-history-inner">
 							<img src="/product_images/about-06.jpg" alt="Image" class="img-fluid tm-history-img" />
 							<div class="tm-history-text"> 
-								<h4 class="tm-history-title">History of our restaurant</h4>
-								<p class="tm-mb-p">Sed ligula risus, interdum aliquet imperdiet sit amet, auctor sit amet justo. Maecenas posuere lorem id augue interdum vehicula. Praesent sed leo eget libero ultricies congue.</p>
-								<p>Redistributing this template as a downloadable ZIP file on any template collection site is strictly prohibited. You will need to <a href="https://templatemo.com/contact">contact TemplateMo</a> for additional permissions about our templates. Thank you.</p>
+								<h4 class="tm-history-title">Histoire de Cocktail Room</h4>
+								<p class="tm-mb-p">L'aventure de Cocktail Room a débuté dans le désir de capturer l'essence des bars accueillants où les âmes se croisent et les conversations coulent à flot. Depuis notre lancement, nous nous efforçons de partager l'art de la mixologie à travers des recettes uniques et des présentations élégantes. De modestes débuts en ligne à notre vision actuelle d'offrir également des coffrets de cocktails raffinés, nous avons évolué tout en préservant l'esprit d'une soirée au bar.</p>
 							</div>
 						</div>	
 					</div>

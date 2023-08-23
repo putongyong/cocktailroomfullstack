@@ -11,8 +11,8 @@ export default function Root() {
 		<Navbar/>
 		<main>
 			<header class="row tm-welcome-section">
-				<h2 class="col-12 text-center tm-section-title">Welcome to Cocktail Room</h2>
-				<p class="col-12 text-center">Total 3 HTML pages are included in this template. Header image has a parallax effect. You can feel free to download, edit and use this TemplateMo layout for your commercial or non-commercial websites.</p>
+				<h2 class="col-12 text-center tm-section-title">Cocktail Room</h2>
+				<p class="col-12 text-center">Plongez dans l'univers envoûtant du Cocktail Room, où les mélanges deviennent des œuvres d'art gustatives et les moments se transforment en souvenirs mémorables. Découvrez des recettes innovantes, vibrez au rythme des saveurs et laissez-vous emporter dans notre ambiance de bar virtuel, prélude à des soirées inoubliables.</p>
 			</header>
 			<Intro />
 			<ProductList/>
