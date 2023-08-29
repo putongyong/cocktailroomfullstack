@@ -5,7 +5,7 @@ export default function Aperitifdujour() {
   const [products, setProducts] = useState([]);
 
   useEffect(() => {
-    axios.get('http://127.0.0.1:8000/api/products')
+    axios.get('http://localhost:8000/api/products')
       .then(response => {
         setProducts(response.data);
 		console.log(response.data);
